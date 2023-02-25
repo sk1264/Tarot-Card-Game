@@ -1,7 +1,6 @@
 # Tarot Card Reading Game (with a little twist)
 
-Discover your fate through a standard Major and Minor Arcana tarot card reading! There are 78 cards in a deck, but wait... a cursed card has slipped in this particular deck that voids a reading and places a curse on the user.
-Tarot decks contain 78 cards divided into two major groups:
+Discover your fate through a standard Major and Minor Arcana tarot card reading! Tarot decks contain 78 cards divided into two major groups:
 
 1. 22 Major Arcana Cards
 2. 56 Minor Arcana Cards
@@ -20,8 +19,8 @@ The 22 Major Arcana include cards such as The Fool or The World, while the 56 Mi
 3. As a user, these 10 cards will be placed faced down on the table in the structure of a Celtic Cross Card Spread tarot card reading.
 4. As a user, I will click a button to reveal the cards face up.
 5. As a user, the order of the cards will reveal the meaning of each card’s reading in its placement according to the structure in the interpretation section.
-6. As a user, there is one card amongst the 79 that is considered “cursed” - if said card is revealed, user has been cursed and entire reading is null and void.
- 
+6. As a user, in order for me to "win" and get a good reading, I need to get 5 or more "positive" cards (which will be listed below). Conversely, if I get 5 or more "negative" cards, I "lose" and my reading is bad.
+7. As a user, if I "win", the game will generate a message stating my positive reading. If I "lose", the game will generate a message stating my negative reading. 
  
 ## Stretch Goals:
 1. As a user, I will be able to pick my 10 cards from deck instead of generated randomization.
