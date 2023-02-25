@@ -21,3 +21,4 @@ Discover your fate through a standard Major and Minor Arcana tarot card reading!
 1. Allow user to pick cards from deck instead of generated randomization.
 2. Incorporate more detailed reading when hovering over card once revealed.
 3. Set timer for deck to be shuffled.
+4. Have cards sometimes randomly turn upside down to represent "cards reversed".
