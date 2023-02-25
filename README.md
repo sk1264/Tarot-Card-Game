@@ -15,16 +15,16 @@ The 22 Major Arcana include cards such as The Fool or The World, while the 56 Mi
 ![alt text](https://user-images.githubusercontent.com/123710081/221374919-9e16ec65-0e0b-45e6-b15f-1c53a6516627.png)
 
 ## MVP Goals:
-1. Present a 79 card deck that is meant to be shuffled once clicked.
-2. A random 10 cards will then be generated.
-3. These 10 cards will be placed faced down on the table in the structure of a Celtic Cross Card Spread tarot card reading.
-4. Click button to reveal the cards face up.
-5. The order of the cards will reveal the meaning of each card’s reading in its placement according to the structure in the interpretation section.
-6. There is one card amongst the 79 that is considered “cursed” - if said card is revealed, user has been cursed and entire reading is null and void.
+1. As a user, I will be presented a 79 card deck that is meant to be shuffled once clicked.
+2. As a user, 10 cards will then randomly be generated.
+3. As a user, these 10 cards will be placed faced down on the table in the structure of a Celtic Cross Card Spread tarot card reading.
+4. As a user, I will click a button to reveal the cards face up.
+5. As a user, the order of the cards will reveal the meaning of each card’s reading in its placement according to the structure in the interpretation section.
+6. As a user, there is one card amongst the 79 that is considered “cursed” - if said card is revealed, user has been cursed and entire reading is null and void.
  
  
 ## Stretch Goals:
-1. Allow user to pick cards from deck instead of generated randomization.
-2. Incorporate more detailed reading when hovering over card once revealed.
-3. Set timer for deck to be shuffled.
-4. Have cards sometimes randomly turn upside down to represent "cards reversed".
+1. As a user, I will be able to pick my 10 cards from deck instead of generated randomization.
+2. As a user, I will be able to see a more detailed reading when hovering over card once revealed.
+3. As a user, there will be a set timer for deck to be shuffled and I can see that shuffling in real-time.
+4. As a user, there will be cards that sometimes randomly turn upside down to represent "cards reversed", which have a different interpretation.
