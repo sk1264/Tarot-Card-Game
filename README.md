@@ -1,6 +1,6 @@
 # Tarot Card Reading Game (with a little twist)
 
-Discover your fate through a standard Major and Minor Arcana tarot card reading! There are 78 cards in a deck, but wait... a cursed card has slipped in this particular deck that voids a reading and places a cursed on the user.
+Discover your fate through a standard Major and Minor Arcana tarot card reading! There are 78 cards in a deck, but wait... a cursed card has slipped in this particular deck that voids a reading and places a curse on the user.
 Tarot decks contain 78 cards divided into two major groups:
 
 1. 22 Major Arcana Cards
