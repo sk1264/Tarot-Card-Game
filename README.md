@@ -1,6 +1,8 @@
 # Tarot Card "Game of Life" 
 
-Discover your fate through a standard Major and Minor Arcana tarot card reading! Tarot decks contain 78 cards divided into two major groups:
+Discover your fate through a Tarot Card "Game of Life", where the user will walk through 10 major life events to be interpreted by a tarot reading. At the end of the game, depending on whether the majority of readings turn out bad vs. good, you win or lose!
+
+Tarot decks contain 78 cards divided into two major groups:
 
 1. 22 Major Arcana Cards
 2. 56 Minor Arcana Cards
