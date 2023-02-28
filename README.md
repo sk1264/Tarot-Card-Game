@@ -1,4 +1,4 @@
-# Tarot Card Reading Game (with a little twist)
+# Tarot Card "Game of Life" 
 
 Discover your fate through a standard Major and Minor Arcana tarot card reading! Tarot decks contain 78 cards divided into two major groups:
 
@@ -14,13 +14,14 @@ The 22 Major Arcana include cards such as The Fool or The World, while the 56 Mi
 ![alt text](https://user-images.githubusercontent.com/123710081/221374919-9e16ec65-0e0b-45e6-b15f-1c53a6516627.png)
 
 ## MVP Goals:
-1. As a user, I will be presented a 79 card deck that is meant to be shuffled once clicked.
-2. As a user, 10 cards will then randomly be generated.
-3. As a user, these 10 cards will be placed faced down on the table in the structure of a Celtic Cross Card Spread tarot card reading.
-4. As a user, I will click a button to reveal the cards face up.
-5. As a user, the order of the cards will reveal the meaning of each card’s reading in its placement according to the structure in the interpretation section.
-6. As a user, in order for me to "win" and get a good reading, I need to get 5 or more "positive" cards (which will be listed below). Conversely, if I get 5 or more "negative" cards, I "lose" and my reading is bad.
-7. As a user, if I "win", the game will generate a message stating my positive reading. If I "lose", the game will generate a message stating my negative reading. 
+1. As a user, I am entering the "Tarot Reading Game of Life" where I will endure 10 major life events each dictated by a reading. In order for me to win the game, I need to get 5 or more "positive" readings for each life event. Otherwise, I lose.
+2. As a user, I will be presented a 78 card deck at the beginning of each life event that is meant to be shuffled once clicked.
+3. As a user, 10 cards will then randomly be generated.
+4. As a user, these 10 cards will be placed faced down on the table in the structure of a Celtic Cross Card Spread tarot card reading.
+5. As a user, I will click a button to reveal the cards face up.
+6. As a user, the order of the cards will reveal the meaning of each card’s reading in its placement according to the structure in the interpretation section.
+7. As a user, in order for me to "win" and get a good reading, I need to get 5 or more "positive" cards. Conversely, if I get 5 or more "negative" cards, I "lose" and my reading is bad.
+8. As a user, at the end of the 10 life events, I will receive an explanation of my win or loss based on the number of "positive" or "negative" readings I have received overall.
  
 ## Stretch Goals:
 1. As a user, I will be able to pick my 10 cards from deck instead of generated randomization.
